@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Ehsan Haghighat</title>
+    <link>https://ehaghighat.com/publication_types/</link>
+      <atom:link href="https://ehaghighat.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ehsan Haghighat - 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ehaghighat.com/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://ehaghighat.com/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>0</title>
+      <link>https://ehaghighat.com/publication_types/0/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication_types/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://ehaghighat.com/publication_types/3/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://ehaghighat.com/publication_types/2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://ehaghighat.com/publication_types/5/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication_types/5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

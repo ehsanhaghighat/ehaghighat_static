@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ehsan Haghighat</title>
+    <link>https://ehaghighat.com/</link>
+      <atom:link href="https://ehaghighat.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ehsan Haghighat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ehsan Haghighat - 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ehaghighat.com/img/icon-192.png</url>
+      <title>Ehsan Haghighat</title>
+      <link>https://ehaghighat.com/</link>
+    </image>
+    
+    <item>
+      <title>An Implicit-Interface Approach for Modeling Coupled Flow-Geomechanics and Induced Seismicity</title>
+      <link>https://ehaghighat.com/publication/haghighat2018implicit/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/haghighat2018implicit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Plasticity</title>
+      <link>https://ehaghighat.com/research/plasticity/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/research/plasticity/</guid>
+      <description>&lt;p&gt;In a set of studies, we use foundations of plasticity and continuum mechanics to describe material behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning in engineering</title>
+      <link>https://ehaghighat.com/research/machinelearning/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/research/machinelearning/</guid>
+      <description>&lt;p&gt;We use smeared and discrete facture models to describe fracturing amd material weakness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling of Fracturing and Localization</title>
+      <link>https://ehaghighat.com/research/fracture/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/research/fracture/</guid>
+      <description>&lt;p&gt;We use smeared and discrete facture models to describe fracturing amd material weakness.&lt;/p&gt;
+
+&lt;iframe width=&#34;800&#34; height=&#34;300&#34; src=&#34;https://www.youtube.com/embed/dSuUPrj_lYE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;500&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/xgg6UdfwZEo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;700&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/jinyONnRhg0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;300&#34; height=&#34;600&#34; src=&#34;https://www.youtube.com/embed/uauU2Z2qxVc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SciANN</title>
+      <link>https://ehaghighat.com/project/sciann/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/project/sciann/</guid>
+      <description>&lt;p&gt;SciANN: A Keras wrapper for scientific computations and physics-informed deep learning using artificial neural networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SciANN: A Keras wrapper for scientific computations and physics-informed deep learning using artificial neural networks</title>
+      <link>https://ehaghighat.com/publication/haghighat2019sciann/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/haghighat2019sciann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vFEMLab</title>
+      <link>https://ehaghighat.com/project/vfemlab/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/project/vfemlab/</guid>
+      <description>&lt;p&gt;A vectorized FEM MATLAB library using the implicit interface methods&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterizing the mechanical behaviour of the Tournemire argillite</title>
+      <link>https://ehaghighat.com/publication/su2017characterizing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/su2017characterizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On modeling of fractured media using an enhanced embedded discontinuity approach</title>
+      <link>https://ehaghighat.com/publication/haghighat2016modeling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/haghighat2016modeling/</guid>
+      <description>&lt;iframe width=&#34;500&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/xgg6UdfwZEo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the mechanical and hydraulic response of sedimentary rocks in the presence of discontinuities</title>
+      <link>https://ehaghighat.com/publication/haghighat2015mechanical/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/haghighat2015mechanical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of damage propagation in cohesive-frictional materials</title>
+      <link>https://ehaghighat.com/publication/haghighat2015modeling_thesis/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/haghighat2015modeling_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On modeling of discrete propagation of localized damage in cohesive-frictional materials</title>
+      <link>https://ehaghighat.com/publication/haghighat2015modeling/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/haghighat2015modeling/</guid>
+      <description>&lt;iframe width=&#34;800&#34; height=&#34;300&#34; src=&#34;https://www.youtube.com/embed/dSuUPrj_lYE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;800&#34; height=&#34;300&#34; src=&#34;https://www.youtube.com/embed/llkP9nj-U2g&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;800&#34; height=&#34;300&#34; src=&#34;https://www.youtube.com/embed/xt4R8xRp8qk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;800&#34; height=&#34;300&#34; src=&#34;https://www.youtube.com/embed/hYQRbHOefDo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling of deformation and localized failure in anisotropic rocks</title>
+      <link>https://ehaghighat.com/publication/pietruszczak2015modeling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/pietruszczak2015modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mesh-independent finite element formulation for modeling crack growth in saturated porous media based on an enriched-FEM technique</title>
+      <link>https://ehaghighat.com/publication/khoei2014mesh/</link>
+      <pubDate>Fri, 06 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/khoei2014mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of slope stability in cohesive soils due to a rainfall</title>
+      <link>https://ehaghighat.com/publication/pietruszczak2013assessment/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/pietruszczak2013assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermo-hydro-mechanical modeling of impermeable discontinuity in saturated porous media with X-FEM technique</title>
+      <link>https://ehaghighat.com/publication/khoei2012thermo/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/khoei2012thermo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended finite element modeling of deformable porous media with arbitrary interfaces</title>
+      <link>https://ehaghighat.com/publication/khoei2011extended/</link>
+      <pubDate>Fri, 06 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/publication/khoei2011extended/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

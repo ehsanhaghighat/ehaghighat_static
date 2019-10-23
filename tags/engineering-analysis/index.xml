@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering Analysis | Ehsan Haghighat</title>
+    <link>https://ehaghighat.com/tags/engineering-analysis/</link>
+      <atom:link href="https://ehaghighat.com/tags/engineering-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Engineering Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ehsan Haghighat - 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ehaghighat.com/img/icon-192.png</url>
+      <title>Engineering Analysis</title>
+      <link>https://ehaghighat.com/tags/engineering-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning in engineering</title>
+      <link>https://ehaghighat.com/research/machinelearning/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/research/machinelearning/</guid>
+      <description>&lt;p&gt;We use smeared and discrete facture models to describe fracturing amd material weakness.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

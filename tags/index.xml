@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Ehsan Haghighat</title>
+    <link>https://ehaghighat.com/tags/</link>
+      <atom:link href="https://ehaghighat.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ehsan Haghighat - 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ehaghighat.com/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://ehaghighat.com/tags/</link>
+    </image>
+    
+    <item>
+      <title>computational</title>
+      <link>https://ehaghighat.com/tags/computational/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering Analysis</title>
+      <link>https://ehaghighat.com/tags/engineering-analysis/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/engineering-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fracture</title>
+      <link>https://ehaghighat.com/tags/fracture/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/fracture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fracturing</title>
+      <link>https://ehaghighat.com/tags/fracturing/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/fracturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implicit interfaces</title>
+      <link>https://ehaghighat.com/tags/implicit-interfaces/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/implicit-interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inversion</title>
+      <link>https://ehaghighat.com/tags/inversion/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://ehaghighat.com/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>https://ehaghighat.com/tags/modeling/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plasticity</title>
+      <link>https://ehaghighat.com/tags/plasticity/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/tags/plasticity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

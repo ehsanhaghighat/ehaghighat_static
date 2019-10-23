@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ehsan Haghighat</title>
+    <link>https://ehaghighat.com/authors/ehsan/</link>
+      <atom:link href="https://ehaghighat.com/authors/ehsan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ehsan Haghighat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ehsan Haghighat - 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ehaghighat.com/img/icon-192.png</url>
+      <title>Ehsan Haghighat</title>
+      <link>https://ehaghighat.com/authors/ehsan/</link>
+    </image>
+    
+    <item>
+      <title>Computational Plasticity</title>
+      <link>https://ehaghighat.com/research/plasticity/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/research/plasticity/</guid>
+      <description>&lt;p&gt;In a set of studies, we use foundations of plasticity and continuum mechanics to describe material behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning in engineering</title>
+      <link>https://ehaghighat.com/research/machinelearning/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/research/machinelearning/</guid>
+      <description>&lt;p&gt;We use smeared and discrete facture models to describe fracturing amd material weakness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling of Fracturing and Localization</title>
+      <link>https://ehaghighat.com/research/fracture/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/research/fracture/</guid>
+      <description>&lt;p&gt;We use smeared and discrete facture models to describe fracturing amd material weakness.&lt;/p&gt;
+
+&lt;iframe width=&#34;800&#34; height=&#34;300&#34; src=&#34;https://www.youtube.com/embed/dSuUPrj_lYE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;500&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/xgg6UdfwZEo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;700&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/jinyONnRhg0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;300&#34; height=&#34;600&#34; src=&#34;https://www.youtube.com/embed/uauU2Z2qxVc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SciANN</title>
+      <link>https://ehaghighat.com/project/sciann/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/project/sciann/</guid>
+      <description>&lt;p&gt;SciANN: A Keras wrapper for scientific computations and physics-informed deep learning using artificial neural networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>vFEMLab</title>
+      <link>https://ehaghighat.com/project/vfemlab/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ehaghighat.com/project/vfemlab/</guid>
+      <description>&lt;p&gt;A vectorized FEM MATLAB library using the implicit interface methods&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
